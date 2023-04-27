@@ -365,8 +365,8 @@ textarea {
 .loading-item .glow-checkbox,
 .loading-item .glow-text span {
   animation: glow 1.5s ease-in-out infinite;
-  background: #eee;
-  color: transparent;
+  background: #272323;
+  color: #272323;
   cursor: progress;
   display: inline-block;
 }
@@ -378,12 +378,12 @@ textarea {
 }
 
 .loading-item + .loading-item {
-  border-top: 1px solid #f0f9fb;
+  border-top: 1px solid #272323;
 }
 
 .list-items {
   position: relative;
-  background: white;
+  background: #272323;
   min-height: 288px;
 }
 
