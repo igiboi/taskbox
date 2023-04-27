@@ -9022,10 +9022,10 @@ msw-storybook-addon@^1.8.0:
   dependencies:
     is-node-process "^1.0.1"
 
-msw@^0.42.0, "msw@>=0.35.0 <2.0.0":
-  version "0.42.0"
-  resolved "https://registry.npmjs.org/msw/-/msw-0.42.0.tgz"
-  integrity sha512-vB9rzgiGHoQGfkKpp3QZHxobzfuuQOJk+0bff0wtbK8k3P3CaUSt8bCwvExours682AY4mUfTjIkCsxy0JoS3w==
+msw@^0.42.3, "msw@>=0.35.0 <2.0.0":
+  version "0.42.3"
+  resolved "https://registry.npmjs.org/msw/-/msw-0.42.3.tgz"
+  integrity sha512-zrKBIGCDsNUCZLd3DLSeUtRruZ0riwJgORg9/bSDw3D0PTI8XUGAK3nC0LJA9g0rChGuKaWK/SwObA8wpFrz4g==
   dependencies:
     "@mswjs/cookies" "^0.2.0"
     "@mswjs/interceptors" "^0.16.3"
